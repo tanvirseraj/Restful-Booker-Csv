@@ -1,0 +1,1 @@
+newman run Restful-Booker-Csv.postman_collection.json -e Restful-Booker-Csv.postman_environment.json -r cli,htmlextra

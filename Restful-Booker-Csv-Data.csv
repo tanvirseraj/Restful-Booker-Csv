@@ -1,0 +1,5 @@
+firstName,lastName,totalPrice,depositPaid,checkin,checkout,additionalNeeds
+arif,hasan,566,TRUE,2023-12-07,2023-12-17,Bike
+rana,abid,555,FALSE,2023-12-08,2023-12-18,Rubber 
+kabir,khan,333,TRUE,2023-12-09,2023-12-19,Plastic
+sakib,rahman,552,FALSE,2023-12-10,2023-12-20,Pen
